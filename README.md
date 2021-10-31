@@ -1,0 +1,3 @@
+# Calculator
+It's a simple calculator making with the help of tkinter using python
+This project help ful to the beginners to understand the core concepts... 
